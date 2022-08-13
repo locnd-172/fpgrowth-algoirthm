@@ -1,0 +1,27 @@
+@relation retail
+
+@attribute a {true}
+@attribute b {true}
+@attribute c {true}
+@attribute d {true}
+@attribute e {true}
+@attribute f {true}
+@attribute g {true}
+@attribute h {true}
+@attribute i {true}
+@attribute j {true}
+@attribute k {true}
+@attribute l {true}
+@attribute m {true}
+@attribute n {true}
+@attribute o {true}
+@attribute p {true}
+@attribute s {true}
+
+@data
+
+true,?,true,true,?,true,true,?,true,?,?,?,true,?,?,true,?
+true,true,true,?,?,true,?,?,?,?,?,true,true,?,true,?,?
+?,true,?,?,?,true,?,true,?,true,?,?,?,?,true,?,?
+?,true,true,?,?,?,?,?,?,?,true,?,?,?,?,true,true
+true,?,true,?,true,true,?,?,?,?,?,true,true,true,?,true,?

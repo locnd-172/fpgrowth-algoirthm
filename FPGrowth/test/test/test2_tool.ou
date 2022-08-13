@@ -1,0 +1,23 @@
+Size of set of large itemsets L(1): 6
+
+Large Itemsets L(1):
+Beans=true 5
+Cheese=true 6
+Eggs=true 6
+Milk=true 8
+Snack=true 7
+Yogurt=true 9
+
+Size of set of large itemsets L(2): 5
+
+Large Itemsets L(2):
+Cheese=true Milk=true 6
+Cheese=true Yogurt=true 5
+Eggs=true Yogurt=true 5
+Milk=true Snack=true 5
+Milk=true Yogurt=true 6
+
+Size of set of large itemsets L(3): 1
+
+Large Itemsets L(3):
+Cheese=true Milk=true Yogurt=true 5

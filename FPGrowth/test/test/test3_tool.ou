@@ -1,0 +1,81 @@
+Size of set of large itemsets L(1): 40
+
+Large Itemsets L(1):
+1076=true 10
+1133=true 7
+1164=true 10
+1361=true 8
+1417=true 6
+1674=true 7
+1689=true 9
+2298=true 6
+2791=true 6
+2873=true 7
+3121=true 8
+3182=true 8
+3221=true 10
+3383=true 9
+3559=true 12
+3596=true 6
+3639=true 7
+3700=true 9
+4324=true 10
+4726=true 7
+4747=true 7
+4789=true 10
+5030=true 9
+5276=true 10
+5624=true 7
+5882=true 6
+6242=true 8
+6440=true 8
+6601=true 12
+6862=true 9
+7010=true 7
+7272=true 8
+7310=true 8
+7662=true 11
+7993=true 7
+8283=true 9
+8312=true 8
+8810=true 7
+9771=true 8
+9856=true 10
+
+Size of set of large itemsets L(2): 28
+
+Large Itemsets L(2):
+1076=true 4789=true 7
+1076=true 9771=true 6
+1674=true 9856=true 7
+1689=true 3221=true 6
+1689=true 3383=true 6
+1689=true 6440=true 6
+1689=true 7310=true 6
+3221=true 6601=true 7
+3221=true 9856=true 6
+3559=true 4324=true 6
+3559=true 6601=true 6
+3559=true 7662=true 6
+3700=true 4789=true 6
+3700=true 7662=true 6
+3700=true 8283=true 7
+4789=true 6601=true 7
+4789=true 7272=true 6
+5276=true 6440=true 6
+5276=true 6601=true 6
+6242=true 9856=true 6
+6440=true 9771=true 6
+6601=true 6862=true 6
+6601=true 7662=true 6
+6601=true 7993=true 6
+7662=true 7993=true 6
+7662=true 8283=true 8
+7662=true 9856=true 7
+8283=true 9856=true 6
+
+Size of set of large itemsets L(3): 2
+
+Large Itemsets L(3):
+3700=true 7662=true 8283=true 6
+7662=true 8283=true 9856=true 6

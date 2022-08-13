@@ -1,0 +1,23 @@
+@relation retail
+
+@attribute Beans {true}
+@attribute Cheese {true}
+@attribute Eggs {true}
+@attribute Milk {true}
+@attribute Snack {true}
+@attribute Yogurt {true}
+
+@data
+
+true,?,true,?,?,true
+?,true,?,true,?,true
+?,true,true,true,true,true
+?,true,true,true,?,true
+true,?,true,?,true,?
+true,?,?,?,?,true
+?,true,?,true,true,true
+?,true,?,true,true,true
+?,?,?,true,true,?
+true,?,true,true,?,true
+true,true,?,true,true,?
+?,?,true,?,true,true

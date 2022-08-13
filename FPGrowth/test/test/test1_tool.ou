@@ -1,0 +1,33 @@
+Size of set of large itemsets L(1): 6
+
+Large Itemsets L(1):
+a=true 3
+b=true 3
+c=true 4
+f=true 4
+m=true 3
+p=true 3
+
+Size of set of large itemsets L(2): 7
+
+Large Itemsets L(2):
+a=true c=true 3
+a=true f=true 3
+a=true m=true 3
+c=true f=true 3
+c=true m=true 3
+c=true p=true 3
+f=true m=true 3
+
+Size of set of large itemsets L(3): 4
+
+Large Itemsets L(3):
+a=true c=true f=true 3
+a=true c=true m=true 3
+a=true f=true m=true 3
+c=true f=true m=true 3
+
+Size of set of large itemsets L(4): 1
+
+Large Itemsets L(4):
+a=true c=true f=true m=true 3
