@@ -11,7 +11,7 @@ More advanced related issues such as *Closed Itemsets, Association Rules, Correl
 
 ## Problem statement
 Given the set of items $𝐼 = {𝑖_1, 𝑖_2, … , 𝑖_𝑚}$ and the database $𝐷$ are transactions,
-each transaction is a subset of the set of items $𝐼 \space (𝑇 ⊆ 𝐼).$.
+each transaction is a subset of the set of items $𝐼 \space (𝑇 \subseteq 𝐼)$.
 
 Find all subsets of I that frequently occur together
 in transactions.
